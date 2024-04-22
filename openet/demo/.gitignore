@@ -1,0 +1,6 @@
+*.env
+*.cfg
+
+Lib/*
+Scripts/*
+Include/*
